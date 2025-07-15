@@ -1,6 +1,6 @@
 # 🕒 TimerOff — Controle de Energia Fácil e Moderno
 
-**TimerOff** é um aplicativo gratuito e de código aberto para Windows, criado com Electron, que permite agendar o desligamento, reinício, suspensão ou bloqueio do seu computador de maneira prática, rápida e intuitiva.
+**TimerOff** é um aplicativo gratuito para Windows, criado com Electron, que permite agendar o desligamento, reinício, suspensão ou bloqueio do seu computador de maneira prática, rápida e intuitiva.
 
 ---
 
@@ -38,6 +38,10 @@
 
 - 💻 [Baixar TimerOff - Windows 64 bits (.rar via MediaFire)](https://www.mediafire.com/file/kvlavkh21r6dcj5/TimerOff-win32-x64.rar/file)  
   _*Hospedado no MediaFire e comprimido em .rar_
+
+---
+
+  [Site TimerOff](https://timeroff.pages.dev/)
 
 ---
 
