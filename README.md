@@ -43,6 +43,19 @@
   _*Hospedado no Github e comprimido em .rar_
 
 ---
+## Como Instalar e Executar
+
+1. Após baixar o arquivo, Descompacte-o
+2. Entre na pasta e `execute` o arquivo `TimerOff.exe`
+
+### Dicas
+
+  Uma dica é você clicar com lado direito em cima do arquivo `TimerOff.exe` e selecionar a opção `Enviar Para` e depois `Área de Trabalho (criar atalho)`,
+  assim você também terá acesso ao aplicativo a partir do ícone dele em sua `Área de Trabalho (Desktop)`
+
+   ![Demonstração da dica](gif_dica.GIF)
+  
+---
 
   [Site TimerOff](https://timeroff.pages.dev/)
 
