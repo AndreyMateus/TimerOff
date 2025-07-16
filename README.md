@@ -36,7 +36,10 @@
 
 ## 🔽 Download
 
-- 💻 [Baixar TimerOff - Windows 64 bits (.rar via MediaFire)](https://www.mediafire.com/file/kvlavkh21r6dcj5/TimerOff-win32-x64.rar/file)  
+- 💻 [Baixar TimerOff - Windows 64 bits (.rar via MediaFire)](https://www.mediafire.com/file/aj3eor07bg1244w/TimerOff-win32-x64.rar/file)  
+  _*Hospedado no MediaFire e comprimido em .rar_
+
+  - 💻 [Baixar TimerOff - Windows 64 bits (.rar via Github)](https://github.com/AndreyMateus/TimerOff/raw/refs/heads/main/TimerOff-win32-x64.rar)  
   _*Hospedado no MediaFire e comprimido em .rar_
 
 ---
