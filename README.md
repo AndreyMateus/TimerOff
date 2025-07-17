@@ -49,6 +49,13 @@
 1. Após baixar o arquivo, Descompacte-o
 2. Entre na pasta e `execute` o arquivo `TimerOff.exe`
 
+---
+
+## Vídeo tutorial de instalação
+[Youtube Link](https://www.youtube.com/watch?v=eWZGF2hkTPA)
+
+---
+
 ### Dicas
 
   Uma dica é você clicar com lado direito em cima do arquivo `TimerOff.exe` e selecionar a opção `Enviar Para` e depois `Área de Trabalho (criar atalho)`,
